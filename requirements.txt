@@ -20,7 +20,7 @@ flask==2.2.2
 flask-bcrypt==1.0.1
     # via -r requirements.in
 flask-login==0.6.2
-email_validator
+email_validator==2.1.0.post1
     # via -r requirements.in
 flask-sqlalchemy==3.0.3
     # via -r requirements.in
@@ -49,7 +49,7 @@ werkzeug==2.2.3
     # via
     #   flask
     #   flask-login
-wtforms==3.0.1
+wtforms==2.2.1
     # via
     #   -r requirements.in
     #   flask-wtf
